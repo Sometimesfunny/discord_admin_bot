@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# discord_admin_bot
-Simple administration bot
-=======
 # Discord Admin Bot
 Simple administration bot (Inspired by [DBS DAO](https://t.me/bomzhuem))
 
