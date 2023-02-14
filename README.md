@@ -81,4 +81,3 @@ first week - Nodes & Testnets call at 19:00
 second week - Multiaccing & Retrodrops call at 19:00
 
 >You can add as much weeks as you want
->>>>>>> master
